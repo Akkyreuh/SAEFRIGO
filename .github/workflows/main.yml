@@ -7,7 +7,6 @@ on:
    inputs:
     sync:
       default: delta
-# un workflow est une liste de tâches :
 jobs:
   nomjob:
    runs-on: ubuntu-latest
